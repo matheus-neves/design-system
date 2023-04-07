@@ -2,115 +2,115 @@
 # yarn lockfile v1
 
 
-"@esbuild/android-arm64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/android-arm64/-/android-arm64-0.17.14.tgz#4624cea3c8941c91f9e9c1228f550d23f1cef037"
-  integrity sha1-RiTOo8iUHJH56cEij1UNI/HO8Dc=
+"@esbuild/android-arm64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/android-arm64/-/android-arm64-0.17.15.tgz#893ad71f3920ccb919e1757c387756a9bca2ef42"
+  integrity sha1-iTrXHzkgzLkZ4XV8OHdWqbyi70I=
 
-"@esbuild/android-arm@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/android-arm/-/android-arm-0.17.14.tgz#74fae60fcab34c3f0e15cb56473a6091ba2b53a6"
-  integrity sha1-dPrmD8qzTD8OFctWRzpgkborU6Y=
+"@esbuild/android-arm@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/android-arm/-/android-arm-0.17.15.tgz#143e0d4e4c08c786ea410b9a7739779a9a1315d8"
+  integrity sha1-FD4NTkwIx4bqQQuadzl3mpoTFdg=
 
-"@esbuild/android-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/android-x64/-/android-x64-0.17.14.tgz#f002fbc08d5e939d8314bd23bcfb1e95d029491f"
-  integrity sha1-8AL7wI1ek52DFL0jvPseldApSR8=
+"@esbuild/android-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/android-x64/-/android-x64-0.17.15.tgz#d2d12a7676b2589864281b2274355200916540bc"
+  integrity sha1-0tEqdnayWJhkKBsidDVSAJFlQLw=
 
-"@esbuild/darwin-arm64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/darwin-arm64/-/darwin-arm64-0.17.14.tgz#b8dcd79a1dd19564950b4ca51d62999011e2e168"
-  integrity sha1-uNzXmh3RlWSVC0ylHWKZkBHi4Wg=
+"@esbuild/darwin-arm64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/darwin-arm64/-/darwin-arm64-0.17.15.tgz#2e88e79f1d327a2a7d9d06397e5232eb0a473d61"
+  integrity sha1-Lojnnx0yeip9nQY5flIy6wpHPWE=
 
-"@esbuild/darwin-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/darwin-x64/-/darwin-x64-0.17.14.tgz#4b49f195d9473625efc3c773fc757018f2c0d979"
-  integrity sha1-S0nxldlHNiXvw8dz/HVwGPLA2Xk=
+"@esbuild/darwin-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/darwin-x64/-/darwin-x64-0.17.15.tgz#9384e64c0be91388c57be6d3a5eaf1c32a99c91d"
+  integrity sha1-k4TmTAvpE4jFe+bTperxwyqZyR0=
 
-"@esbuild/freebsd-arm64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/freebsd-arm64/-/freebsd-arm64-0.17.14.tgz#480923fd38f644c6342c55e916cc7c231a85eeb7"
-  integrity sha1-SAkj/Tj2RMY0LFXpFsx8IxqF7rc=
+"@esbuild/freebsd-arm64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/freebsd-arm64/-/freebsd-arm64-0.17.15.tgz#2ad5a35bc52ebd9ca6b845dbc59ba39647a93c1a"
+  integrity sha1-KtWjW8UuvZymuEXbxZujlkepPBo=
 
-"@esbuild/freebsd-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/freebsd-x64/-/freebsd-x64-0.17.14.tgz#a6b6b01954ad8562461cb8a5e40e8a860af69cbe"
-  integrity sha1-prawGVSthWJGHLil5A6Khgr2nL4=
+"@esbuild/freebsd-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/freebsd-x64/-/freebsd-x64-0.17.15.tgz#b513a48446f96c75fda5bef470e64d342d4379cd"
+  integrity sha1-tROkhEb5bHX9pb70cOZNNC1Dec0=
 
-"@esbuild/linux-arm64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-arm64/-/linux-arm64-0.17.14.tgz#1fe2f39f78183b59f75a4ad9c48d079916d92418"
-  integrity sha1-H+Lzn3gYO1n3WkrZxI0HmRbZJBg=
+"@esbuild/linux-arm64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-arm64/-/linux-arm64-0.17.15.tgz#9697b168175bfd41fa9cc4a72dd0d48f24715f31"
+  integrity sha1-lpexaBdb/UH6nMSnLdDUjyRxXzE=
 
-"@esbuild/linux-arm@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-arm/-/linux-arm-0.17.14.tgz#18d594a49b64e4a3a05022c005cb384a58056a2a"
-  integrity sha1-GNWUpJtk5KOgUCLABcs4SlgFaio=
+"@esbuild/linux-arm@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-arm/-/linux-arm-0.17.15.tgz#5b22062c54f48cd92fab9ffd993732a52db70cd3"
+  integrity sha1-WyIGLFT0jNkvq5/9mTcypS23DNM=
 
-"@esbuild/linux-ia32@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-ia32/-/linux-ia32-0.17.14.tgz#f7f0182a9cfc0159e0922ed66c805c9c6ef1b654"
-  integrity sha1-9/AYKpz8AVngki7WbIBcnG7xtlQ=
+"@esbuild/linux-ia32@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-ia32/-/linux-ia32-0.17.15.tgz#eb28a13f9b60b5189fcc9e98e1024f6b657ba54c"
+  integrity sha1-6yihP5tgtRifzJ6Y4QJPa2V7pUw=
 
-"@esbuild/linux-loong64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-loong64/-/linux-loong64-0.17.14.tgz#5f5305fdffe2d71dd9a97aa77d0c99c99409066f"
-  integrity sha1-X1MF/f/i1x3ZqXqnfQyZyZQJBm8=
+"@esbuild/linux-loong64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-loong64/-/linux-loong64-0.17.15.tgz#32454bdfe144cf74b77895a8ad21a15cb81cfbe5"
+  integrity sha1-MkVL3+FEz3S3eJWorSGhXLgc++U=
 
-"@esbuild/linux-mips64el@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-mips64el/-/linux-mips64el-0.17.14.tgz#a602e85c51b2f71d2aedfe7f4143b2f92f97f3f5"
-  integrity sha1-pgLoXFGy9x0q7f5/QUOy+S+X8/U=
+"@esbuild/linux-mips64el@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-mips64el/-/linux-mips64el-0.17.15.tgz#af12bde0d775a318fad90eb13a0455229a63987c"
+  integrity sha1-rxK94Nd1oxj62Q6xOgRVIppjmHw=
 
-"@esbuild/linux-ppc64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-ppc64/-/linux-ppc64-0.17.14.tgz#32d918d782105cbd9345dbfba14ee018b9c7afdf"
-  integrity sha1-MtkY14IQXL2TRdv7oU7gGLnHr98=
+"@esbuild/linux-ppc64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-ppc64/-/linux-ppc64-0.17.15.tgz#34c5ed145b2dfc493d3e652abac8bd3baa3865a5"
+  integrity sha1-NMXtFFst/Ek9PmUqusi9O6o4ZaU=
 
-"@esbuild/linux-riscv64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-riscv64/-/linux-riscv64-0.17.14.tgz#38612e7b6c037dff7022c33f49ca17f85c5dec58"
-  integrity sha1-OGEue2wDff9wIsM/ScoX+Fxd7Fg=
+"@esbuild/linux-riscv64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-riscv64/-/linux-riscv64-0.17.15.tgz#87bd515e837f2eb004b45f9e6a94dc5b93f22b92"
+  integrity sha1-h71RXoN/LrAEtF+eapTcW5PyK5I=
 
-"@esbuild/linux-s390x@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-s390x/-/linux-s390x-0.17.14.tgz#4397dff354f899e72fd035d72af59a700c465ccb"
-  integrity sha1-Q5ff81T4mecv0DXXKvWacAxGXMs=
+"@esbuild/linux-s390x@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-s390x/-/linux-s390x-0.17.15.tgz#20bf7947197f199ddac2ec412029a414ceae3aa3"
+  integrity sha1-IL95Rxl/GZ3awuxBICmkFM6uOqM=
 
-"@esbuild/linux-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-x64/-/linux-x64-0.17.14.tgz#6c5cb99891b6c3e0c08369da3ef465e8038ad9c2"
-  integrity sha1-bFy5mJG2w+DAg2naPvRl6AOK2cI=
+"@esbuild/linux-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/linux-x64/-/linux-x64-0.17.15.tgz#31b93f9c94c195e852c20cd3d1914a68aa619124"
+  integrity sha1-Mbk/nJTBlehSwgzT0ZFKaKphkSQ=
 
-"@esbuild/netbsd-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/netbsd-x64/-/netbsd-x64-0.17.14.tgz#5fa5255a64e9bf3947c1b3bef5e458b50b211994"
-  integrity sha1-X6UlWmTpvzlHwbO+9eRYtQshGZQ=
+"@esbuild/netbsd-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/netbsd-x64/-/netbsd-x64-0.17.15.tgz#8da299b3ac6875836ca8cdc1925826498069ac65"
+  integrity sha1-jaKZs6xodYNsqM3BklgmSYBprGU=
 
-"@esbuild/openbsd-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/openbsd-x64/-/openbsd-x64-0.17.14.tgz#74d14c79dcb6faf446878cc64284aa4e02f5ca6f"
-  integrity sha1-dNFMedy2+vRGh4zGQoSqTgL1ym8=
+"@esbuild/openbsd-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/openbsd-x64/-/openbsd-x64-0.17.15.tgz#04a1ec3d4e919714dba68dcf09eeb1228ad0d20c"
+  integrity sha1-BKHsPU6RlxTbpo3PCe6xIorQ0gw=
 
-"@esbuild/sunos-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/sunos-x64/-/sunos-x64-0.17.14.tgz#5c7d1c7203781d86c2a9b2ff77bd2f8036d24cfa"
-  integrity sha1-XH0ccgN4HYbCqbL/d70vgDbSTPo=
+"@esbuild/sunos-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/sunos-x64/-/sunos-x64-0.17.15.tgz#6694ebe4e16e5cd7dab6505ff7c28f9c1c695ce5"
+  integrity sha1-ZpTr5OFuXNfatlBf98KPnBxpXOU=
 
-"@esbuild/win32-arm64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/win32-arm64/-/win32-arm64-0.17.14.tgz#dc36ed84f1390e73b6019ccf0566c80045e5ca3d"
-  integrity sha1-3DbthPE5DnO2AZzPBWbIAEXlyj0=
+"@esbuild/win32-arm64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/win32-arm64/-/win32-arm64-0.17.15.tgz#1f95b2564193c8d1fee8f8129a0609728171d500"
+  integrity sha1-H5WyVkGTyNH+6PgSmgYJcoFx1QA=
 
-"@esbuild/win32-ia32@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/win32-ia32/-/win32-ia32-0.17.14.tgz#0802a107afa9193c13e35de15a94fe347c588767"
-  integrity sha1-CAKhB6+pGTwT413hWpT+NHxYh2c=
+"@esbuild/win32-ia32@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/win32-ia32/-/win32-ia32-0.17.15.tgz#c362b88b3df21916ed7bcf75c6d09c6bf3ae354a"
+  integrity sha1-w2K4iz3yGRbte891xtCca/OuNUo=
 
-"@esbuild/win32-x64@0.17.14":
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/win32-x64/-/win32-x64-0.17.14.tgz#e81fb49de05fed91bf74251c9ca0343f4fc77d31"
-  integrity sha1-6B+0neBf7ZG/dCUcnKA0P0/HfTE=
+"@esbuild/win32-x64@0.17.15":
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@esbuild/win32-x64/-/win32-x64-0.17.15.tgz#c2e737f3a201ebff8e2ac2b8e9f246b397ad19b8"
+  integrity sha1-wuc386IB6/+OKsK46fJGs5etGbg=
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -237,32 +237,32 @@ dir-glob@^3.0.1:
     path-type "^4.0.0"
 
 esbuild@^0.17.6:
-  version "0.17.14"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/esbuild/-/esbuild-0.17.14.tgz#d61a22de751a3133f3c6c7f9c1c3e231e91a3245"
-  integrity sha1-1hoi3nUaMTPzxsf5wcPiMekaMkU=
+  version "0.17.15"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/esbuild/-/esbuild-0.17.15.tgz#209ebc87cb671ffb79574db93494b10ffaf43cbc"
+  integrity sha1-IJ68h8tnH/t5V025NJSxD/r0PLw=
   optionalDependencies:
-    "@esbuild/android-arm" "0.17.14"
-    "@esbuild/android-arm64" "0.17.14"
-    "@esbuild/android-x64" "0.17.14"
-    "@esbuild/darwin-arm64" "0.17.14"
-    "@esbuild/darwin-x64" "0.17.14"
-    "@esbuild/freebsd-arm64" "0.17.14"
-    "@esbuild/freebsd-x64" "0.17.14"
-    "@esbuild/linux-arm" "0.17.14"
-    "@esbuild/linux-arm64" "0.17.14"
-    "@esbuild/linux-ia32" "0.17.14"
-    "@esbuild/linux-loong64" "0.17.14"
-    "@esbuild/linux-mips64el" "0.17.14"
-    "@esbuild/linux-ppc64" "0.17.14"
-    "@esbuild/linux-riscv64" "0.17.14"
-    "@esbuild/linux-s390x" "0.17.14"
-    "@esbuild/linux-x64" "0.17.14"
-    "@esbuild/netbsd-x64" "0.17.14"
-    "@esbuild/openbsd-x64" "0.17.14"
-    "@esbuild/sunos-x64" "0.17.14"
-    "@esbuild/win32-arm64" "0.17.14"
-    "@esbuild/win32-ia32" "0.17.14"
-    "@esbuild/win32-x64" "0.17.14"
+    "@esbuild/android-arm" "0.17.15"
+    "@esbuild/android-arm64" "0.17.15"
+    "@esbuild/android-x64" "0.17.15"
+    "@esbuild/darwin-arm64" "0.17.15"
+    "@esbuild/darwin-x64" "0.17.15"
+    "@esbuild/freebsd-arm64" "0.17.15"
+    "@esbuild/freebsd-x64" "0.17.15"
+    "@esbuild/linux-arm" "0.17.15"
+    "@esbuild/linux-arm64" "0.17.15"
+    "@esbuild/linux-ia32" "0.17.15"
+    "@esbuild/linux-loong64" "0.17.15"
+    "@esbuild/linux-mips64el" "0.17.15"
+    "@esbuild/linux-ppc64" "0.17.15"
+    "@esbuild/linux-riscv64" "0.17.15"
+    "@esbuild/linux-s390x" "0.17.15"
+    "@esbuild/linux-x64" "0.17.15"
+    "@esbuild/netbsd-x64" "0.17.15"
+    "@esbuild/openbsd-x64" "0.17.15"
+    "@esbuild/sunos-x64" "0.17.15"
+    "@esbuild/win32-arm64" "0.17.15"
+    "@esbuild/win32-ia32" "0.17.15"
+    "@esbuild/win32-x64" "0.17.15"
 
 execa@^5.0.0:
   version "5.1.1"
@@ -685,10 +685,10 @@ tsup@^6.7.0:
     sucrase "^3.20.3"
     tree-kill "^1.2.2"
 
-typescript@^5.0.2:
-  version "5.0.2"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/typescript/-/typescript-5.0.2.tgz#891e1a90c5189d8506af64b9ef929fca99ba1ee5"
-  integrity sha1-iR4akMUYnYUGr2S575Kfypm6HuU=
+typescript@^5.0.2, typescript@^5.0.3:
+  version "5.0.3"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/typescript/-/typescript-5.0.3.tgz#fe976f0c826a88d0a382007681cbb2da44afdedf"
+  integrity sha1-/pdvDIJqiNCjggB2gcuy2kSv3t8=
 
 webidl-conversions@^4.0.2:
   version "4.0.2"
