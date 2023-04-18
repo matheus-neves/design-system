@@ -1807,6 +1807,11 @@
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/channels/-/channels-7.0.2.tgz#2eb124d14fff50d4686888dca88f130c5aee358d"
   integrity sha1-LrEk0U//UNRoaIjcqI8TDFruNY0=
 
+"@storybook/channels@7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/channels/-/channels-7.0.5.tgz#b7dbc11e658a5e6a694bd7df2a0514c3b27ba318"
+  integrity sha1-t9vBHmWKXmppS9ffKgUUw7J7oxg=
+
 "@storybook/cli@7.0.2":
   version "7.0.2"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/cli/-/cli-7.0.2.tgz#f96c42e7660b8f8f14595483036b3b5ef6724dc9"
@@ -1855,6 +1860,13 @@
   version "7.0.2"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/client-logger/-/client-logger-7.0.2.tgz#2701d862236f1b7ae181d9c168abc67cc79ea001"
   integrity sha1-JwHYYiNvG3rhgdnBaKvGfMeeoAE=
+  dependencies:
+    "@storybook/global" "^5.0.0"
+
+"@storybook/client-logger@7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/client-logger/-/client-logger-7.0.5.tgz#9655534a88bd61a3824024dd960d2d82bcaeaded"
+  integrity sha1-llVTSoi9YaOCQCTdlg0tgryure0=
   dependencies:
     "@storybook/global" "^5.0.0"
 
@@ -1928,6 +1940,11 @@
   version "7.0.2"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/core-events/-/core-events-7.0.2.tgz#5038aa5ea1e035099ed1dc48aa233e232ff882e7"
   integrity sha1-UDiqXqHgNQme0dxIqiM+Iy/4guc=
+
+"@storybook/core-events@7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/core-events/-/core-events-7.0.5.tgz#d92490df43f3bc28bf05b3d9a69ae153aca94ecd"
+  integrity sha1-2SSQ30PzvCi/BbPZpprhU6ypTs0=
 
 "@storybook/core-server@7.0.2":
   version "7.0.2"
@@ -2062,6 +2079,27 @@
     telejson "^7.0.3"
     ts-dedent "^2.0.0"
 
+"@storybook/manager-api@^7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/manager-api/-/manager-api-7.0.5.tgz#73292e9d8c4c4ef0c06effe5fe1b6737a01c7f69"
+  integrity sha1-cykunYxMTvDAbv/l/htnN6Acf2k=
+  dependencies:
+    "@storybook/channels" "7.0.5"
+    "@storybook/client-logger" "7.0.5"
+    "@storybook/core-events" "7.0.5"
+    "@storybook/csf" "^0.1.0"
+    "@storybook/global" "^5.0.0"
+    "@storybook/router" "7.0.5"
+    "@storybook/theming" "7.0.5"
+    "@storybook/types" "7.0.5"
+    dequal "^2.0.2"
+    lodash "^4.17.21"
+    memoizerific "^1.11.3"
+    semver "^7.3.7"
+    store2 "^2.14.2"
+    telejson "^7.0.3"
+    ts-dedent "^2.0.0"
+
 "@storybook/manager@7.0.2":
   version "7.0.2"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/manager/-/manager-7.0.2.tgz#1060afdc5bb4b69252d1ed1ad4d5e01d6a355b95"
@@ -2168,6 +2206,15 @@
     memoizerific "^1.11.3"
     qs "^6.10.0"
 
+"@storybook/router@7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/router/-/router-7.0.5.tgz#d89f1911b555a7c2fdcdfcc35947ecdc1b18b7d7"
+  integrity sha1-2J8ZEbVVp8L9zfzDWUfs3BsYt9c=
+  dependencies:
+    "@storybook/client-logger" "7.0.5"
+    memoizerific "^1.11.3"
+    qs "^6.10.0"
+
 "@storybook/telemetry@7.0.2":
   version "7.0.2"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/telemetry/-/telemetry-7.0.2.tgz#461edb09bc6e02cf2b19588c58d9c92c11ca9a07"
@@ -2204,12 +2251,32 @@
     "@storybook/global" "^5.0.0"
     memoizerific "^1.11.3"
 
+"@storybook/theming@7.0.5", "@storybook/theming@^7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/theming/-/theming-7.0.5.tgz#29b88074c73947a801be10f0b5d8c34220dd240f"
+  integrity sha1-KbiAdMc5R6gBvhDwtdjDQiDdJA8=
+  dependencies:
+    "@emotion/use-insertion-effect-with-fallbacks" "^1.0.0"
+    "@storybook/client-logger" "7.0.5"
+    "@storybook/global" "^5.0.0"
+    memoizerific "^1.11.3"
+
 "@storybook/types@7.0.2":
   version "7.0.2"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/types/-/types-7.0.2.tgz#32ae7b9521d42617bd8fb87f3b85b0f77d2739f5"
   integrity sha1-Mq57lSHUJhe9j7h/O4Ww930nOfU=
   dependencies:
     "@storybook/channels" "7.0.2"
+    "@types/babel__core" "^7.0.0"
+    "@types/express" "^4.7.0"
+    file-system-cache "^2.0.0"
+
+"@storybook/types@7.0.5":
+  version "7.0.5"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@storybook/types/-/types-7.0.5.tgz#d8a3a5aa2dc33f7b81df2833e09d3eaa2f6c9c3c"
+  integrity sha1-2KOlqi3DP3uB3ygz4J0+qi9snDw=
+  dependencies:
+    "@storybook/channels" "7.0.5"
     "@types/babel__core" "^7.0.0"
     "@types/express" "^4.7.0"
     file-system-cache "^2.0.0"
