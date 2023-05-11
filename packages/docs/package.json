@@ -13,6 +13,7 @@
     "@storybook/manager-api": "^7.0.6",
     "@storybook/react": "^7.0.6",
     "@storybook/react-vite": "^7.0.6",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/testing-library": "^0.1.0",
     "@storybook/theming": "^7.0.6",
     "@vitejs/plugin-react": "^3.1.0",
@@ -25,6 +26,7 @@
   "peerDependencies": {},
   "scripts": {
     "dev": "storybook dev -p 6006",
+    "deploy-storybook": "storybook-to-ghpages",
     "build": "storybook build"
   },
   "dependencies": {
