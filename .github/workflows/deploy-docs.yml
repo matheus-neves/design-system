@@ -16,7 +16,7 @@ jobs:
           node-version: 16
           repo-token: ${{ secrets.GITHUB_TOKEN }}
       
-      - run: yarn
+      - run: yarn --frozen-lockfile
       
       - run: yarn build
 
