@@ -14,9 +14,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
       
-      - run: rm -rf node_modules && yarn install --frozen-lockfile
-
+      - run: yarn --frozen-lockfile
+      
       - run: yarn build
 
       - name: Deploy storybook
