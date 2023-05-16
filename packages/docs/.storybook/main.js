@@ -9,11 +9,22 @@ const config = {
     "@storybook/addon-a11y"
   ],
   framework: {
-    name: "@storybook/react-vite",
-    options: {}
+    name: '@storybook/react-vite'
+  },
+  core: {
+    "builder": "@storybook/builder-vite"
+  },
+  "features": {
+    "storyStoreV7": true
   },
   docs: {
     autodocs: "tag"
+  },
+  viteFinal: (config, {configType}) => {
+    if(configType === 'PRODUCTION') {
+      config.base = '/design-system'
+    }
+    return config
   }
 };
 export default config;
