@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ignite-ui-khazaf/docs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -24,10 +24,10 @@
     "build": "build-storybook"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-ui-khazaf/eslint-config": "*",
+    "@ignite-ui-khazaf/react": "*",
+    "@ignite-ui-khazaf/tokens": "*",
+    "@ignite-ui-khazaf/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

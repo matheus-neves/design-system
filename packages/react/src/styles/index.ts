@@ -7,7 +7,7 @@ import {
   fontWeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@ignite-ui-khazaf/tokens'
 
 export const {
   styled,
