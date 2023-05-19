@@ -19,6 +19,9 @@ jobs:
       - run: yarn --frozen-lockfile
       
       - run: yarn build
+        env: 
+          TURBO_TOKEN: JOOw8oLuaG2KhNM2xIKIa9jc
+          TURBO_TEAM: khazaf
 
       - name: Deploy storybook
         working-directory: ./packages/docs
