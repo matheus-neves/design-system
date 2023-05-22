@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js 16.x
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 16
@@ -25,11 +25,6 @@ jobs:
 
       - name: Install Dependencies
       - run: yarn --frozen-lockfile
-
-      - run: yarn build
-        env: 
-          TURBO_TOKEN: JOOw8oLuaG2KhNM2xIKIa9jc
-          TURBO_TEAM: khazaf
 
       - name: Publish to npm
         id: changesets
