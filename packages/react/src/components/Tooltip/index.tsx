@@ -1,7 +1,7 @@
 import * as RadixTooltip from '@radix-ui/react-tooltip'
 import { TooltipArrow, TooltipContainer, TooltipContent } from './styles'
 import { ComponentProps } from 'react'
-import { Text } from '@ignite-ui-khazaf/react'
+import { Text } from '../../index'
 
 export interface TooltipProps extends ComponentProps<typeof TooltipContainer> {
   align?: 'center' | 'end' | 'start'
